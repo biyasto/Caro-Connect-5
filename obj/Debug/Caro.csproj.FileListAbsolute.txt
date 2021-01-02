@@ -1,0 +1,130 @@
+C:\Users\ROG\Desktop\GameCaro-master\bin\Debug\Caro.exe.config
+C:\Users\ROG\Desktop\GameCaro-master\bin\Debug\Caro.exe
+C:\Users\ROG\Desktop\GameCaro-master\bin\Debug\Caro.pdb
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.BackForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.AnnounceForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.CreditForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.AvatarForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.DrawForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.ExitForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.InfoForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.PlayForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.PauseForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.RuleForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.StartForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.WinForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.SettingForm.resources
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.csproj.CopyComplete
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.exe
+C:\Users\ROG\Desktop\GameCaro-master\obj\Debug\Caro.pdb
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.BackForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.AnnounceForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.CreditForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.AvatarForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.DrawForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.ExitForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.InfoForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.PlayForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.PauseForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.RuleForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.StartForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.WinForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.SettingForm.resources
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.exe
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.pdb
+C:\Users\ROG\Desktop\game 2.4\bin\Debug\Caro.exe.config
+C:\Users\ROG\Desktop\game 2.4\bin\Debug\Caro.exe
+C:\Users\ROG\Desktop\game 2.4\bin\Debug\Caro.pdb
+C:\Users\ROG\Desktop\game 2.4\obj\Debug\Caro.csproj.CopyComplete
+D:\Coding Projects\ĐỒ ÁN\game 2.4\bin\Debug\Caro.exe.config
+D:\Coding Projects\ĐỒ ÁN\game 2.4\bin\Debug\Caro.exe
+D:\Coding Projects\ĐỒ ÁN\game 2.4\bin\Debug\Caro.pdb
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.csprojAssemblyReference.cache
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.BackForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.AnnounceForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.CreditForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.AvatarForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.DrawForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.ExitForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.InfoForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.PlayForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.PauseForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.RuleForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.StartForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.Properties.Resources.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.WinForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.SettingForm.resources
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.csproj.GenerateResource.cache
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.csproj.CopyComplete
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.exe
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.pdb
+D:\Coding Projects\ĐỒ ÁN\game 2.4\bin\Debug\Interop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\game 2.4\bin\Debug\AxInterop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Interop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\AxInterop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\game 2.4\obj\Debug\Caro.csproj.ResolveComReference.cache
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\bin\Debug\Caro.exe.config
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\bin\Debug\Caro.exe
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\bin\Debug\Caro.pdb
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\bin\Debug\Interop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\bin\Debug\AxInterop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.csprojAssemblyReference.cache
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Interop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\AxInterop.WMPLib.dll
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.csproj.ResolveComReference.cache
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.BackForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.AnnounceForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.CreditForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.AvatarForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.DrawForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.ExitForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.InfoForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.PlayForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.PauseForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.RuleForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.StartForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.Properties.Resources.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.WinForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.SettingForm.resources
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.csproj.GenerateResource.cache
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.csproj.CopyComplete
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.exe
+D:\Coding Projects\ĐỒ ÁN\Game 2.5\obj\Debug\Caro.pdb
+C:\Users\ROG\Downloads\Game 2.5\bin\Debug\Caro.exe.config
+C:\Users\ROG\Downloads\Game 2.5\bin\Debug\Caro.exe
+C:\Users\ROG\Downloads\Game 2.5\bin\Debug\Caro.pdb
+C:\Users\ROG\Downloads\Game 2.5\bin\Debug\Interop.WMPLib.dll
+C:\Users\ROG\Downloads\Game 2.5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.csprojAssemblyReference.cache
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Interop.WMPLib.dll
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.csproj.ResolveComReference.cache
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.BackForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.AnnounceForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.CreditForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.AvatarForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.DrawForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.ExitForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.InfoForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.PlayForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.PauseForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.RuleForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.StartForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.WinForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.SettingForm.resources
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.csproj.CopyComplete
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.exe
+C:\Users\ROG\Downloads\Game 2.5\obj\Debug\Caro.pdb
